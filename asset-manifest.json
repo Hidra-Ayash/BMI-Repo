@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BMI-Repo/static/css/main.99d66a61.css",
+    "main.js": "/BMI-Repo/static/js/main.da417600.js",
+    "static/js/453.ed3810f9.chunk.js": "/BMI-Repo/static/js/453.ed3810f9.chunk.js",
+    "static/media/rangeBmi.png": "/BMI-Repo/static/media/rangeBmi.a2a5fac6b53d56329483.png",
+    "index.html": "/BMI-Repo/index.html",
+    "main.99d66a61.css.map": "/BMI-Repo/static/css/main.99d66a61.css.map",
+    "main.da417600.js.map": "/BMI-Repo/static/js/main.da417600.js.map",
+    "453.ed3810f9.chunk.js.map": "/BMI-Repo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d66a61.css",
+    "static/js/main.da417600.js"
+  ]
+}
